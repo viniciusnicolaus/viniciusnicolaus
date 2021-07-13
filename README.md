@@ -1,4 +1,4 @@
-## Code to make lifes better 
+## Coding to make lifes better 
  <div>
   <a href="https://github.com/viniciusnicolaus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusnicolaus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
